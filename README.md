@@ -7,5 +7,8 @@ If anti-virus pops up, create an exception. This software is open-source so you 
 Rogue Lineage: https://www.roblox.com/games/3016661674/Rogue-Lineage
 
 
-Instructions for download: 
-- 
+Instructions for setup: 
+- Download [installer.iss]
+- Run the installer.
+- Once the software is running, load up rogue lineage and check for the gate spell detection.
+- If correctly detected, your keybinds will disable when the gate spell is casting.
