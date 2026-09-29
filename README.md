@@ -5,3 +5,5 @@ Re-bind keys to whatever you want, your re-binds aren't active when you are cast
 If anti-virus pops up, create an exception. This software is open-source so you can look through the source code if you like. 
 
 Rogue Lineage: https://www.roblox.com/games/3016661674/Rogue-Lineage
+
+Software can be buggy sometimes (if your pc is slow), use at your own risk of your lives in rogue lineage.
