@@ -7,7 +7,7 @@ If anti-virus pops up, create an exception. This software is open-source so you 
 Rogue Lineage: https://www.roblox.com/games/3016661674/Rogue-Lineage
 
 
-Instructions for setup: 
+# Instructions for setup: 
 
 - Download [installer.iss](https://github.com/jalpaid/rlbind/blob/main/installer/RogueKeybinds-Setup.exe)
 - Run the installer.
