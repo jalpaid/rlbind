@@ -8,7 +8,7 @@ Rogue Lineage: https://www.roblox.com/games/3016661674/Rogue-Lineage
 
 
 Instructions for setup: 
-- Download [installer.iss]
+- Download [installer.iss](https://github.com/jalpaid/rlbind/blob/main/installer/RogueKeybinds-Setup.exe)
 - Run the installer.
 - Once the software is running, load up rogue lineage and check for the gate spell detection.
 - If correctly detected, your keybinds will disable when the gate spell is casting.
