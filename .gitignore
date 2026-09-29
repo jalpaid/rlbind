@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+build/
+RogueKeybinds.spec
+
+# Dev/diagnostic artifacts
+diag_*.py
+diag_frames/
+diag_*.png
+cap_*.png
+ui_open.png
+raw_window.png
+pill_crop*.png
+center_autocontrast.png
+gate_debug*.png
+build_log.txt
+
+# Runtime settings (per-user)
+keybinds_config.json
+dist/keybinds_config.json
+
+# Built app is published via GitHub Releases, but keep dist exe out of source
+# (the installer IS committed at installer/)
+dist/*.exe

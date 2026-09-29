@@ -1,0 +1,5 @@
+keyboard
+mss
+pystray
+Pillow
+pytesseract
