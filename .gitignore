@@ -23,3 +23,6 @@ dist/keybinds_config.json
 # Built app is published via GitHub Releases, but keep dist exe out of source
 # (the installer IS committed at installer/)
 dist/*.exe
+
+# Downloaded Tesseract-OCR binaries (restored by fetch_tesseract.ps1)
+tesseract/
